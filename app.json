@@ -1,0 +1,25 @@
+{
+  "name": "test-gh4",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "environments": [],
+    "properties": {},
+    "themes": [],
+    "defaultEnvironment": {
+      "name": "Default",
+      "description": "",
+      "active": true,
+      "properties": []
+    }
+  }
+}
